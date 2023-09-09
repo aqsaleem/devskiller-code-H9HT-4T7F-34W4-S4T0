@@ -1,0 +1,5 @@
+com/devskiller/library/repository/MockBorrowingsRepository.class
+com/devskiller/library/service/BookServiceIntegrationTest.class
+com/devskiller/library/service/ResourceLoaderTest.class
+com/devskiller/library/repository/MockBooksRepository.class
+com/devskiller/library/service/ReportServiceIntegrationTest.class

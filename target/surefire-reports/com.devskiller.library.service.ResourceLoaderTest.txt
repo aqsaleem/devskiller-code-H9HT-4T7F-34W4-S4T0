@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.devskiller.library.service.ResourceLoaderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.devskiller.library.service.ResourceLoaderTest
+readExistingProperty  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.ResourceLoaderTest.readExistingProperty(ResourceLoaderTest.java:13)
+

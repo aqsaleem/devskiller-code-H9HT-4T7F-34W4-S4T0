@@ -1,0 +1,14 @@
+com/devskiller/library/repository/BooksRepository.class
+com/devskiller/library/repository/BorrowingsRepository.class
+com/devskiller/library/model/UserDueReport.class
+com/devskiller/library/exception/BookBorrowingNotFoundException.class
+com/devskiller/library/exception/BookAlreadyBorrowedException.class
+com/devskiller/library/exception/BookNotFoundException.class
+com/devskiller/library/model/UserDueReport$BookDue.class
+com/devskiller/library/service/BookService.class
+com/devskiller/library/model/Book.class
+com/devskiller/library/service/ResourceLoader.class
+com/devskiller/library/service/ReportService.class
+com/devskiller/library/model/User.class
+com/devskiller/library/exception/BookNotAvailableException.class
+com/devskiller/library/model/BookBorrowing.class

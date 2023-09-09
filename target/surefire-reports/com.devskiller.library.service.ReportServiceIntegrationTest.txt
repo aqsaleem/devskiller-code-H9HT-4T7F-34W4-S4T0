@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.devskiller.library.service.ReportServiceIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in com.devskiller.library.service.ReportServiceIntegrationTest
+getUserDueReturnsReport  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.ReportServiceIntegrationTest.<init>(ReportServiceIntegrationTest.java:28)
+
+getUserDueReturnEmptyListIfUserHasNoBorrowings  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.ReportServiceIntegrationTest.<init>(ReportServiceIntegrationTest.java:28)
+

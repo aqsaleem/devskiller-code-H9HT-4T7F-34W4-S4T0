@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------
+Test set: com.devskiller.library.service.BookServiceIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 11, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.devskiller.library.service.BookServiceIntegrationTest
+getAvailableBookCopies  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+removeBookCopyRemovesSingleCopy  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+returnBookUpdatesUserRecordAndAddsAvailableCopy  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+addedBookCopyIsAvailable  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+removeBookCopyThrowsExceptionWhenBookNotFound  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+borrowBookThrowsExceptionIfBookNotFound  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+borrowBookThrowsExceptionIfBookNotAvailable  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+removeBookCopyThrowsExceptionWhenBookNotAvailable  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+getAvailableBookCopiesWhenBookNotAvailable  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+getAvailableBookCopiesThrowsExceptionWhenBookNotFound  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
+borrowBookUpdatesUserRecordAndRemovesAvailableCopy  Time elapsed: 0 s  <<< ERROR!
+java.lang.UnsupportedOperationException: getProperty
+	at com.devskiller.library.service.BookServiceIntegrationTest.<init>(BookServiceIntegrationTest.java:32)
+
