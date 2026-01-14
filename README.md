@@ -52,4 +52,4 @@ on next method call
 - Repository interfaces contain Javadocs describing their methods behaviour
 - You are not allowed to add/delete/modify methods available in repository interface
 - You are not allowed to modify existing tests, but you are free to add new ones
-- Remember to keep high code quality
+- Remember to keep high code quality for human readibility
